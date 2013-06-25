@@ -1,0 +1,6 @@
+<ModuleDefinition
+	ModuleId="simserver"
+	VersionId="1"	
+	ScriptFile="main.cs"
+	CreateFunction="create"
+	DestroyFunction="destroy" />
